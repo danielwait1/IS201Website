@@ -18,6 +18,7 @@ ul{
 ol{
    text-align: left;
    display: inline-block;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .small {
@@ -33,4 +34,7 @@ ol{
     background-color: black;
     line-height: 50px;
 }
+
+
+
 
